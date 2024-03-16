@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "6Android-_Adapters.Films"
+rootProject.name = "5Android-_Adapters.Films"
 include(":app")
  

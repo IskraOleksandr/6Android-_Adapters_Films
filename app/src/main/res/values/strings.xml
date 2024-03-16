@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">5Android-_Adapters.Films</string>
+    <string name="add_film">Add film</string>
+    <string name="show_films">Show films</string>
+    <string name="add">Add</string>
+    <string name="title">Title:</string>
+    <string name="genre">Genre:</string>
+    <string name="year">Year:</string>
+    <string name="select_films">Select films to delete</string>
+    <string name="del_checked">Delete checked film</string>
+    <string name="film_added">Film added</string>
+    <string name="fill_all_fields">Fill all fields</string>
+</resources>

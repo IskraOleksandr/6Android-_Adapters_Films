@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">5Android-_Adapters.Films</string>
+    <string name="add_film">Добавити фільм</string>
+    <string name="show_films">Показати фільми</string>
+    <string name="add">Добавити</string>
+    <string name="title">Назва:</string>
+    <string name="genre">Жанр:</string>
+    <string name="year">Рік:</string>
+    <string name="select_films">Виберіть фільми для видалення</string>
+    <string name="del_checked">Видалити позначені фільми</string>
+    <string name="film_added">Фільм добавлений</string>
+    <string name="fill_all_fields">Заповніть усі поля</string>
+</resources>
